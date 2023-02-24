@@ -1,0 +1,13 @@
+.container_rodape{
+background-color: var(--preto);
+padding: 0.1em;
+display: flex;
+justify-content: center;
+}
+
+
+.rodape{
+    font-size: 10px;
+    color: var(--branco);
+    font-weight: 400;
+}
